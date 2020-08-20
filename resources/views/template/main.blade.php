@@ -535,12 +535,12 @@ $outlet = 'Rural Ayruvedic Hospital Kesbawa';
                         </ul>
                     </li>
 
-                    <li>
+                   <!-- <li>
                         <a href="https://adminlte.io/themes/AdminLTE/index2.html" target="_blank">
                             <i class="fas fa-folder-plus"></i>
                             <span> Template</span>
                         </a>
-                    </li>
+                    </li>-->
 
                 </ul>
 
